@@ -13,6 +13,8 @@ Advanced Preprocessing Pipeline to improve image quality and consistency.
 
 Custom ResNet50-based CNN Architecture built from scratch using TensorFlow/Keras.
 
+Evaluation & Visualization: Assessed model with a confusion matrix and Classification Report
+
 High Accuracy Performance on a relatively small and personalized dataset.
 
 🛠️ Tech Stack
