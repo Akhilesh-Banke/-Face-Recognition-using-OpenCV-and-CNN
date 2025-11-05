@@ -10,6 +10,11 @@ This project demonstrates a robust face recognition pipeline built using OpenCV 
   <img src="CNN Architecture.png" alt="Architecture" width="700"/>
 </p>
 
+# ResNet50 Architecture 
+<p align="center">
+  <img src="ResNet50.png" alt="Architecture" width="700"/>
+</p>
+
 # Key Features
 Real-Time Face Detection using Haar Cascade Classifier (haarcascade_frontalface_default.xml).
 
