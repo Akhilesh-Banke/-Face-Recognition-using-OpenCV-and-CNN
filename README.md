@@ -28,20 +28,5 @@ Evaluation & Visualization: Assessed model with a confusion matrix and Classific
 
 High Accuracy Performance on a relatively small and personalized dataset.
 
-# Tech Stack
-Python
 
-OpenCV
 
-NumPy
-
-TensorFlow / Keras
-
-Haar Cascades
-
-Matplotlib (for visualization)
-
-# Results
-Validation Accuracy: 99.44%
-
-Real-time recognition with minimal latency
