@@ -28,5 +28,7 @@ Evaluation & Visualization: Assessed model with a confusion matrix and Classific
 
 High Accuracy Performance on a relatively small and personalized dataset.
 
+# Installation
+Clone my repository:
 
-
+https://github.com/Akhilesh-Banke/-Face-Recognition-using-OpenCV-and-CNN.git
